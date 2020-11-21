@@ -8,7 +8,7 @@ outcomes, and how food security affects education. We applied regression, classi
 
 #### Notebooks
 - [Regression: Predict test scores based on food access and income](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/notebooks/Regression.ipynb)
-- [Clustering: Group counties based on educational performance, economic status, and food scarcity]()
+- [Clustering: Group counties based on educational performance, economic status, and food scarcity](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/notebooks/Clustering.ipynb)
 - [Classification: Identify of Food Deserts](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/notebooks/Classification.ipynb)
 
 ### The directory structure
