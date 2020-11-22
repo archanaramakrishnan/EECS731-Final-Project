@@ -11,6 +11,8 @@ outcomes, and how food security affects education. We applied regression, classi
 - [Clustering: Group counties based on educational performance, economic status, and food scarcity](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/notebooks/Clustering.ipynb)
 - [Classification: Identify of Food Deserts](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/notebooks/Classification.ipynb)
 
+![Spectral Clustering](https://github.com/archanaramakrishnan/EECS731-Final-Project/blob/main/reports/Spectral.png)
+
 ### The directory structure
 ------------
 
@@ -22,6 +24,8 @@ The directory structure of our project looks like this:
 ├── data               <- Data raw, processed
 │
 ├── notebooks          <- Jupyter notebooks
+│
+├── reports            <- Reports like presentation and visualizations
 │
 └── documentation         <- Data dictionaries, manuals, and all other explanatory materials.
 ```
